@@ -1,4 +1,4 @@
 # hello-world
 tester repository
 
-FIrst branch changes to the readme files
+Testing my setup. Pushing to GitHub from work computer/Rstudio
